@@ -5,6 +5,6 @@ They used Microsoft Azure Cloud platform to build their solution instead of On-P
 Some benefits of using Azure platform:
 1) Lower cost  compare to On-premise solution.
 2) More reliable, flexible, and in-demand configuration.
-3) BI developers can work independently regardles of the location.
+3) BI developers can work independently regardless of the location.
 
 
